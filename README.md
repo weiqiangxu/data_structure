@@ -19,3 +19,12 @@
 8. 查找
 
 9. 排序
+
+### 参考资料
+
+http://data.biancheng.net/
+
+平衡二叉树 
+
+https://blog.csdn.net/m0_61886762/article/details/125289840
+
